@@ -10,16 +10,24 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2.1h | 1 |
+| Week 1 | Tier 1 | 2.7h | 1 |
 
 ## Contents
 
-1. [2026-10-08 – Work session](#2026-10-08-work-session)
+1. [2026-10-08 – Ok,  here I am starting another project, hopefully one I finish. It's my first time using KiCad, and apparently I thought making a PCB was pretty easy - boy was I wrong. While doing the first section](#2026-10-08-ok-here-i-am-starting-another-project-hopefully-o)
 
 ## Design
 
-### 2026-10-08 – Work session
+### 2026-10-08 – Ok,  here I am starting another project, hopefully one I finish. It's my first time using KiCad, and apparently I thought making a PCB was pretty easy - boy was I wrong. While doing the first section
 
-**2.1h**
+**2.7h**
+
+Ok,  here I am starting another project, hopefully one I finish. It's my first time using KiCad, and apparently I thought making a PCB was pretty easy - boy was I wrong. While doing the first section of just making the schematic was easy (it was just the tutorial holding your hand and walking you through it which is how i wanted to say that the tutorial is pretty good to this moment) but then i hit a wall. when it came to assigning footprints of course I messed up the files of the libraries so the display and ESP32 didn't even show up. Thankfully I got it but I hope I won't have to manage libraries again :p
+![image2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Gu8piBX4CT4sqHxfwgso3j7kUqXHAT5v/4958c064920c750f42a844e5b81cde1c46bd79fd875184af8d9fe52d67f413a4.png)
+ While the original starbie does look pretty cool, I at least wanted to change the shape, which for that I picked a heptagram (looked pretty cool, only reason). Because of that i had to suffer a lot, because at first i made it from just lines, which were passing through the shape, tried to save it somehow but at the end I just imported an image of the shape and made only the border. Well, I guess thats just the process of learning.
+
+![image3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Gu8piBX4CT4sqHxfwgso3j7kUqXHAT5v/5475acd368ff9199c5b51e8463cd11696d405fde78cb336e2b846b00e51c9ff0.png)
+
+Now we get to doing traces. I was not prepared for this AT ALL. I have been trying them for at least 30 minutes but after making like 4 of them I put a wall between some other points that need connection. Tomorrow Ill try to learn how to do them properly like they did in the tutorial, like how to make some traces pass below other ones.
 
 [Timelapse](https://lookout.hackclub.com/api/media/c5a55b6d-06bf-4f19-b573-c4e6b7133bd9/video.mp4)
